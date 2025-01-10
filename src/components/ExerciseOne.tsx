@@ -1,4 +1,3 @@
-import React from "react";
 import { ExerciseProps } from "../types/types";
 
 export default function ExerciseOne({ title }: ExerciseProps) {
