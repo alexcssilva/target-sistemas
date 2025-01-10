@@ -1,5 +1,6 @@
 import React from "react";
 import ExerciseOne from "./src/components/ExerciseOne";
+import ExerciseThree from "./src/components/ExerciseThree";
 import ExerciseTwo from "./src/components/ExerciseTwo";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <div className="space-y-8">
         <ExerciseOne title="1. Soma de K" />
         <ExerciseTwo title="2. Sequência de Fibonacci" />
+        <ExerciseThree title="3. Análise de Faturamento" />
       </div>
     </div>
   );
